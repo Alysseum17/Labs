@@ -18,7 +18,7 @@
 | FR10 | Taking a test shall require the user to answer questions. |
 | FR11 | The system shall support various answer types: single-choice, multiple-choice, free-text, and relevance (matching). |
 | FR12 | The system shall allow users to view their results after completing a test. |
-| FR13 | The system shall allow users to rate a quiz. |
+| FR13 | The system shall allow users to rate a test. |
 | FR14 | The system shall allow users to write a text review for a quiz. |
 | FR15 | The system shall allow users to view reviews left by others. |
 | FR16 | The system shall allow users to bookmark tests and view their list of bookmarked tests. |
@@ -57,7 +57,7 @@
 * **Answer:** `Answer the question`
 * **MyRes:** `View your results`
 * **AllRes:** `View result of all tests`
-* **Rate:** `Rate Quiz`
+* **Rate:** `Rate test`
 * **Write:** `Write text review`
 * **ViewRev:** `View review`
 * **Bookmark:** `Bookmark test`
