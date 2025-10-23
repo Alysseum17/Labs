@@ -67,10 +67,10 @@
 * **DelQ:** `Delete question`
 * **EditTest:** `Edit test details`
 * **DelTest:** `Delete test`
-* * **ViewBookmark:** `View bookmarked tests`
+* **ViewBookmark:** `View bookmarked tests`
 
 | FR ID | Reg | SendConfirm | Login | Profile | ChgPass | SendReset | Find | Take | Answer | MyRes | AllRes | Rate | Write | ViewRev | Bookmark | Create | AddQ | EditQ | DelQ | EditTest | DelTest | ViewBookmark |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | | :---: |
 | **FR1** | X | | | | | | | | | | | | | | | | | | | | | |
 | **FR2** | X | X | | | | | | | | | | | | | | | | | | | | |
 | **FR3** | | | X | | | | | | | | | | | | | | | | | | | |
